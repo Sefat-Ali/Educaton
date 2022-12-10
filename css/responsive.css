@@ -1,0 +1,246 @@
+@media (min-width: 279px) and (max-width: 319px){
+/*css star*/
+	/*header section start*/
+	.header .menu .navbar-nav {
+		text-align: center;
+	}
+	.header .banner .banner-inner {
+	    width: 100%;
+	    padding: 0px 0px;
+	}
+	.header .banner .banner-inner h1{
+		font-size: 37px;
+		line-height: 47px;
+	}
+	/*header section end*/
+	/*department section start*/
+	.department .title{
+		padding: 30px 0px;
+	}
+	.department .title h1{
+		font-size: 29px;
+    	line-height: 39px;
+	}
+	.department .inner-text h4{
+		transform: translate(40px, -80px);
+	}
+	/*department section end*/
+	/*about-chairman start*/
+	.about .ca-text{
+		padding: 0px 0px;
+	}
+	.about .ac-text{
+		text-align: center;
+	}
+	/*about-chairman end*/
+	/*university section start*/
+	.university h1{
+		font-size: 40px;
+    	line-height: 50px;
+	}
+	.university .card{
+		margin: 20px 0px 20px;
+	}
+	/*university section end*/
+	/*base section start*/
+	.base .logs p{
+		text-align: center;
+	}
+	.base .icons{
+		margin: 10px 0px 0px -10px;
+	}
+	.base .icons li a{
+		font-size: 19px;
+	}
+	.base .kls{
+		text-align: center;
+	}
+	.base form{
+		width: 250px;
+		height: 35px;
+	}
+	/*base section end*/
+	/*footer section start*/
+	.footer p{
+		text-align: center;
+	}
+	/*footer section end*/
+/*css end*/
+}
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 767px){
+/*css star*/
+	/*header section start*/
+	.header .menu .navbar-nav {
+		text-align: center;
+	}
+	.header .banner .banner-inner {
+	    width: 100%;
+	    padding: 0px 0px;
+	}
+	.header .banner .banner-inner h1{
+		font-size: 37px;
+		line-height: 47px;
+	}
+	/*header section end*/
+	/*department section start*/
+	.department .title{
+		padding: 30px 0px;
+	}
+	.department .title h1{
+		font-size: 39px;
+    	line-height: 49px;
+	}
+	.department .inner-text h4{
+		transform: translate(80px, -80px);
+	}
+	/*department section end*/
+	/*about-chairman start*/
+	.about .ca-text{
+		padding: 0px 0px;
+	}
+	.about .ac-text{
+		text-align: center;
+	}
+	.about .ca-text h1{
+		font-size: 37px;
+		line-height: 47px;
+	}
+	/*about-chairman end*/
+	/*university section start*/
+	.university h1{
+		font-size: 40px;
+    	line-height: 50px;
+	}
+	.university .card{
+		margin: 20px 0px 20px;
+	}
+	/*university section end*/
+	/*base section start*/
+	.base img{
+		margin: 0px 100px 0px;
+	}
+	.base .logs p{
+		text-align: center;
+	}
+	.base .icons{
+		margin: 10px 0px 0px -10px;
+	}
+	.base .icons li a{
+		font-size: 19px;
+	}
+	.base .kls{
+		text-align: center;
+	}
+	.base .icons{
+		text-align: center;
+	}
+	.base ul{
+		text-align: center;
+	}
+	.base form{
+		width: 328px;
+		height: 40px;
+	}
+	/*base section end*/
+	/*footer section start*/
+	.footer p{
+		text-align: center;
+	}
+	/*footer section end*/
+/*css end*/
+}
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+/*css star*/
+	/*header section start*/
+	.header .menu .navbar-nav {
+		text-align: center;
+	}
+	.header .banner .banner-inner {
+	    width: 100%;
+	    padding: 0px 0px;
+	}
+	.header .banner .banner-inner h1{
+		font-size: 37px;
+		line-height: 47px;
+	}
+	/*header section end*/
+	/*department section start*/
+	.department .title{
+		padding: 30px 0px;
+	}
+	.department .title h1{
+		font-size: 39px;
+    	line-height: 49px;
+	}
+	.department .inner-text h4{
+		transform: translate(80px, -80px);
+	}
+	/*department section end*/
+	/*about-chairman start*/
+	.about .ca-text{
+		padding: 0px 0px;
+	}
+	.about .ac-text{
+		text-align: center;
+	}
+	.about .ca-text h1{
+		font-size: 37px;
+		line-height: 47px;
+	}
+	/*about-chairman end*/
+	/*university section start*/
+	.university h1{
+		font-size: 40px;
+    	line-height: 50px;
+	}
+	.university .card{
+		margin: 20px 0px 20px;
+	}
+	/*university section end*/
+	/*base section start*/
+	.base img{
+		margin: 0px 100px 0px;
+	}
+	.base .logs p{
+		text-align: center;
+	}
+	.base .icons{
+		margin: 10px 0px 0px -10px;
+	}
+	.base .icons li a{
+		font-size: 19px;
+	}
+	.base .kls{
+		text-align: center;
+	}
+	.base .icons{
+		text-align: center;
+	}
+	.base ul{
+		text-align: center;
+	}
+	.base form{
+		width: 380px;
+		height: 50px;
+	}
+	/*base section end*/
+	/*footer section start*/
+	.footer p{
+		text-align: center;
+	}
+	.base form button{
+		padding: 5px 23px 5px 37px;
+	}
+	/*footer section end*/
+/*css end*/
+}
